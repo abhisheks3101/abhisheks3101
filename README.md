@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on **Backend Projects**
 - 💬 Ask me about **Python, Django**
 - 📫 How to reach me **abhiwna@gmail.com**
-- 📄 Know about my experiences [here](https://www.canva.com/design/DAGMi0EeG-0/R5SsdHOHPC0JdimAAVLZ6g/edit?utm_content=DAGMi0EeG-0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [here](https://shorturl.at/Itnkb)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -14,7 +14,7 @@
 </p>
 
 - 🔭 I’m currently working on **Appreciate (Fintech Platform)**
-- 🌱 I’m currently learning **GO, System Design**
+- 🌱 I’m currently learning **Flutter**
 - 👯 I’m looking to collaborate on **Backend Projects**
 - 💬 Ask me about **Python, Django**
 - 📫 How to reach me **abhiwna@gmail.com**
